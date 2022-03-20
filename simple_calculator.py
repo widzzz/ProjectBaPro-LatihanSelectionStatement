@@ -57,7 +57,7 @@ def core():
         bil2 = float(input("Masukkan bilangan b :"))
         print(bil1 ** bil2)
         keluar()
-    elif operator == '6':
+    else:
         exit()
 
 # panggil core untuk memulai program
